@@ -1,1 +1,7 @@
+
 Test op merge conflict
+Hallo Ijmert
+Ik heb bij deze je tekstbestand aangepast. 
+Veel plezier
+Nu gaan we eens een conflict proberen uit te lokken. Ben benieuwd.
+
