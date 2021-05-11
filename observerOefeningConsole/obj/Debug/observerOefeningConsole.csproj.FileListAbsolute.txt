@@ -1,0 +1,7 @@
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\obj\Debug\observerOefeningConsole.csprojAssemblyReference.cache
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\obj\Debug\observerOefeningConsole.csproj.CoreCompileInputs.cache
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\bin\Debug\observerOefeningConsole.exe.config
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\bin\Debug\observerOefeningConsole.exe
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\bin\Debug\observerOefeningConsole.pdb
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\obj\Debug\observerOefeningConsole.exe
+C:\Users\ijmer\source\repos\observerOefeningConsole\observerOefeningConsole\obj\Debug\observerOefeningConsole.pdb
